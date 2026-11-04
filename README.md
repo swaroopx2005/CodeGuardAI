@@ -12,6 +12,19 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License MIT" />
 </p>
 
+<p align="center">
+  <a href="https://swaroopx2005.github.io/CodeGuardAI/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Launch%20CodeGuard%20AI-6366F1?style=for-the-badge&logo=rocket" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/swaroopx2005/CodeGuardAI">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <strong>Live Public Web URL:</strong> <a href="https://swaroopx2005.github.io/CodeGuardAI/">https://swaroopx2005.github.io/CodeGuardAI/</a>
+</p>
+
 ---
 
 ## 📌 Overview
