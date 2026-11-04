@@ -1,0 +1,42 @@
+# Node / Next.js / Vite
+node_modules/
+.next/
+dist/
+frontend/dist/
+build/
+.env
+.env.local
+.env.*.local
+
+# Java / Maven
+target/
+backend/target/
+*.class
+backend/.mvn/wrapper/oracleJdk*/
+backend/.mvn/wrapper/jdk*/
+spring-error.txt
+*.dump
+*.dumpstream
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.flattened-pom.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database / temporary files
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+application-local.properties
+application-secret.properties
+secrets/
